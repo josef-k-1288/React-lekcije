@@ -4,4 +4,5 @@
 # [3.React-Click_events] (https://github.com/josef-k-1288/3.-React---Click_events)
 # [4.React-UseState_hook] (https://github.com/josef-k-1288/4.-React---UseState_hook)
 # [5.React-List_and_keys] (https://github.com/josef-k-1288/5.-React---List_and_keys)
+# [6.React-Props] (https://github.com/josef-k-1288/6.-React---Props)
 
