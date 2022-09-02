@@ -6,4 +6,5 @@
 # [5.React-List_and_keys] (https://github.com/josef-k-1288/5.-React---List_and_keys)
 # [6.React-Props] (https://github.com/josef-k-1288/6.-React---Props)
 # [7.React-Controllerd_component_inputs] (https://github.com/josef-k-1288/7.-React---Controllerd_component_inputs)
+# [8.React-Project_challenge] (https://github.com/josef-k-1288/8.-React---Project_challenge)
 
